@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Find the nearest number" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Initializing long value" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Safe converting" />
+            <option value="$PROJECT_DIR$/Topics/Boxing and unboxing/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Basic calculator" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command line arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Get the game mode" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/The index of an argument" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Addresses" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Natural ordering" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Ratings" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Clock factory" />
+            <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Motor static factory" />
+            <option value="$PROJECT_DIR$/Topics/Encapsulating object creation/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Burger store" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Clocks" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Laptop store" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Robot" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Factory method/Where to use the pattern" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Mutable geometric shapes" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Properties of methods" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Correct the program" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Declaring generic classes" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Generic parameter values" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Type arguments" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to generic programming/Type parameter inside a class body" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/About the pattern" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Benefits" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Concrete strategies" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Max and Min" />
+            <option value="$PROJECT_DIR$/Topics/Strategy/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Template method/A disadvantage" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Build a house" />
+            <option value="$PROJECT_DIR$/Topics/Template method/New customer" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Social networks" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Template Method" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Companies" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Select correct assignments" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/The longest string in the list" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

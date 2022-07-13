@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-classes-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-reports-tests.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-test-results.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task-build-tmp.main" target="11" />
+      <module name="Encryption-Decryption.Encryption-Decryption-task.main" target="11" />
+      <module name="Encryption-Decryption.Topics-ArrayList-Concat_positive_numbers.main" target="11" />
+      <module name="Encryption-Decryption.Topics-ArrayList-Find_the_nearest_number.main" target="11" />
+      <module name="Encryption-Decryption.Topics-ArrayList-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Boxing_and_unboxing-Initializing_long_value.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Boxing_and_unboxing-Safe_converting.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Boxing_and_unboxing-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Command-line_arguments-Basic_calculator.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Command-line_arguments-Command_line_arguments.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Command-line_arguments-Get_the_game_mode.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Command-line_arguments-The_index_of_an_argument.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Command-line_arguments-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Comparable-Addresses.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Comparable-Natural_ordering.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Comparable-Ratings.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Comparable-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Clock_factory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Motor_static_factory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Encapsulating_object_creation-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Burger_store.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Clocks.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Laptop_store.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Robot.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Factory_method-Where_to_use_the_pattern.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Interface-Mutable_geometric_shapes.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Interface-Properties_of_methods.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Interface-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Introduction_to_generic_programming-Correct_the_program.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Introduction_to_generic_programming-Declaring_generic_classes.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Introduction_to_generic_programming-Generic_parameter_values.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Introduction_to_generic_programming-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Introduction_to_generic_programming-Type_arguments.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Introduction_to_generic_programming-Type_parameter_inside_a_class_body.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Strategy-About_the_pattern.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Strategy-Benefits.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Strategy-Concrete_strategies.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Strategy-Max_and_Min.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Strategy-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-A_disadvantage.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Build_a_house.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-New_customer.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Social_networks.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Template_Method.main" target="11" />
+      <module name="Encryption-Decryption.Topics-Template_method-Theory.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_List_interface-Companies.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_List_interface-Count_the_value_occurrences.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_List_interface-Select_correct_assignments.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_List_interface-The_longest_string_in_the_list.main" target="11" />
+      <module name="Encryption-Decryption.Topics-The_List_interface-Theory.main" target="11" />
+      <module name="Encryption-Decryption.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
